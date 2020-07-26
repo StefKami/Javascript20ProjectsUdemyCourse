@@ -1,0 +1,31 @@
+[33mcommit f811521d9718edebee0ed9a79d71f9d64feedc61[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: stefkami <skklahadore@gmail.com>
+Date:   Sun Jul 26 19:24:06 2020 +0300
+
+    Revert "Delete h1 from template"
+    
+    This reverts commit be3e9c3376833a3c3a3e45180cf45d766cd32f96.
+
+[33mcommit bee3071a2a13994b195afd64a1f5b919d602dedc[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: stefkami <skklahadore@gmail.com>
+Date:   Sun Jul 26 19:13:44 2020 +0300
+
+    new commit
+
+[33mcommit be3e9c3376833a3c3a3e45180cf45d766cd32f96[m
+Author: stefkami <skklahadore@gmail.com>
+Date:   Sat Jul 25 23:08:19 2020 +0300
+
+    Delete h1 from template
+
+[33mcommit 8dccc1e0905e36b5eb161a114f2745217bea8d9b[m
+Author: stefkami <skklahadore@gmail.com>
+Date:   Sat Jul 25 23:04:44 2020 +0300
+
+    Hewllo world
+
+[33mcommit 6fd2c3f9c7074c11c2dc7fad602dcc13fbfbf6cd[m
+Author: stefkami <skklahadore@gmail.com>
+Date:   Sat Jul 25 23:02:41 2020 +0300
+
+    initial commit
